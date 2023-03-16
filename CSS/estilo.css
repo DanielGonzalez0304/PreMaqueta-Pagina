@@ -1,0 +1,80 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 1px;
+    border: 3px solid rgb(155, 3, 160);
+    width: 1920px;
+    height: 1080px;
+  }
+  
+  .grid-item {
+    background-color: rgb(197, 10, 150);
+    width: 479px;
+    height: 260px;
+  }
+  
+  .item-1 {
+    background-color: rgb(248, 252, 12);
+  }
+  
+  .item-2 {
+    background-color: rgb(8, 216, 147);
+  }
+  
+  .item-3 {
+    background-color: rgb(255, 115, 0);
+  }
+  
+  .item-4 {
+    background-color: rgb(243, 42, 92);
+  }
+  
+  .item-5 {
+    background-color: rgb(156, 9, 156);
+  }
+  
+  .item-6 {
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .item-7 {
+    background-color: rgb(18, 113, 236);
+  }
+  
+  .item-8 {
+    background-color: rgb(48, 243, 9);
+  }
+  
+  .item-9 {
+    background-color: rgb(252, 252, 252);
+  }
+  
+  .item-10 {
+    background-color: rgb(255, 136, 0);
+  }
+  
+  .item-11 {
+    background-color: rgb(131, 226, 86);
+  }
+  
+  .item-12 {
+    background-color: rgb(53, 171, 218);
+  }
+  
+  .item-13 {
+    background-color: rgb(214, 245, 36);
+  }
+  
+  .item-14 {
+    background-color: rgb(199, 91, 115);
+  }
+  
+  .item-15 {
+    background-color: rgb(41, 76, 233);
+  }
+  
+  .item-16 {
+    background-color: rgb(121, 34, 82);
+  }
+  
